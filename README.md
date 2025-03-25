@@ -1,4 +1,4 @@
-![](https://github.com/ugyenn-tsheringg/ugyenn-tsheringg/blob/main/github-header-image.jpeg)
+![](https://github.com/ugyenn-tsheringg/ugyenn-tsheringg/blob/main/github-header-image.png)
 
 # Ugyen Tshering
 
