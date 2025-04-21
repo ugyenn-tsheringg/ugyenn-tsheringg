@@ -29,6 +29,7 @@ Hello World! I'm Ugyen Tshering, a passionate **Data Scientist**, **Data Analyst
 - ⚡ Fun fact: [e.g., "I’m an avid hiker and love exploring nature trails!"]
 ---
 
+<div align="center">
 ## 💻 IDEs & Tools
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -82,7 +83,7 @@ Hello World! I'm Ugyen Tshering, a passionate **Data Scientist**, **Data Analyst
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
-
+</div>
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -105,13 +106,6 @@ _Explore more on [my repositories](https://github.com/ugyenn-tsheringg?tab=repos
 ---
 
 ### 📬 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/welcometougyentsheringpage/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/ugyenntsheringg/discussion"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=social&logo=kaggle" alt="Kaggle"/></a>
-  <a href="https://leetcode.com/u/ugyenn_tsheringg/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=social&logo=leetcode" alt="LeetCode"/></a>
-</div>
-
 ---
 
 <div align="center">
