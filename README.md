@@ -19,7 +19,7 @@
 ---
 
 ## Hello World! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-Hello World! I'm **Ugyen Tshering**, a final-year student at AlBukhary International University, Malaysia, hailing from Bhutan. As a Data Scientist, AI Engineer, and Web Developer, I’m driven to transform data into insights, build intelligent systems, and create seamless web experiences. My mission is to harness technology to solve real-world problems with creativity and precision.
+I'm **Ugyen Tshering**, a final-year student at AlBukhary International University, Malaysia, hailing from Bhutan. As a Data Scientist, AI Engineer, and Web Developer, I’m driven to transform data into insights, build intelligent systems, and create seamless web experiences. My mission is to harness technology to solve real-world problems with creativity and precision.
 
 - 🔭 **Currently working on**: An **Image Captioning System** for visually impaired individuals, leveraging pretrained ResNet CNN, LSTM with attention mechanisms, Visual Question Answering, and Text-to-Speech integration.
 - 🌱 **Learning**: Advanced deep learning architectures, AI agent development, and solving LeetCode problems in Python.
