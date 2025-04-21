@@ -29,7 +29,8 @@ Hello World! I'm **Ugyen Tshering**, a final-year student at AlBukhary Internati
 ---
 
 <div align="center">
-## 💻 IDEs & Tools
+  
+  ## 💻 IDEs & Tools
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -83,6 +84,7 @@ Hello World! I'm **Ugyen Tshering**, a final-year student at AlBukhary Internati
 
 ---
 </div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,10 +108,8 @@ _Explore more on [my repositories](https://github.com/ugyenn-tsheringg?tab=repos
 
 ### 📬 Connect with Me
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ugyenn-tsheringg&style=flat-square&color=blue" alt="Profile Views"/>
   <p>Thanks for visiting! Let's build something amazing together. 🚀</p>
 </div>
-
 ---
