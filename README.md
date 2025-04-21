@@ -20,8 +20,13 @@
 
 ## 👋 Hello World! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-I’m **Ugyen Tshering**, an aspiring **Data Scientist** with a flair for **AI, analytics**, and **web development**. I enjoy solving real-world problems using data, building models, and visualizing insights in the most creative ways.
+Hello World! I'm Ugyen Tshering, a passionate **Data Scientist**, **Data Analyst**, **Web Developer**, and **AI Engineer** from [Your Location, e.g., Bhutan]. I love transforming data into insights, building intelligent systems, and crafting seamless web experiences. My mission is to leverage technology to solve real-world problems with creativity and precision.
 
+- 🔭 Currently working on [mention a project, e.g., "building a neural network for image classification"]
+- 🌱 Learning [e.g., "advanced NLP techniques and cloud computing"]
+- 💬 Ask me about [e.g., "Python, TensorFlow, or web development"]
+- 📫 Reach me at [your email or preferred contact, e.g., ugyen.tshering@example.com]
+- ⚡ Fun fact: [e.g., "I’m an avid hiker and love exploring nature trails!"]
 ---
 
 ## 💻 IDEs & Tools
@@ -89,9 +94,29 @@ I’m **Ugyen Tshering**, an aspiring **Data Scientist** with a flair for **AI, 
 </div>
 
 ---
+### 🏆 Featured Projects
 
-## 🧭 Let's Connect!
+- **[Project Name 1](https://github.com/ugyenn-tsheringg/project1)**: [Brief description, e.g., "A machine learning model for predicting customer churn using Python and TensorFlow."]
+- **[Project Name 2](https://github.com/ugyenn-tsheringg/project2)**: [Brief description, e.g., "A full-stack web app for task management built with JavaScript and Firebase."]
+- **[Project Name 3](https://github.com/ugyenn-tsheringg/project3)**: [Brief description, e.g., "A data visualization dashboard using Pandas and Matplotlib."]
 
-Feel free to check out my repositories, follow me for updates, or connect via LinkedIn. Let’s learn and build together!
+_Explore more on [my repositories](https://github.com/ugyenn-tsheringg?tab=repositories)!_
+
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/welcometougyentsheringpage/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/ugyenntsheringg/discussion"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=social&logo=kaggle" alt="Kaggle"/></a>
+  <a href="https://leetcode.com/u/ugyenn_tsheringg/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=social&logo=leetcode" alt="LeetCode"/></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ugyenn-tsheringg&style=flat-square&color=blue" alt="Profile Views"/>
+  <p>Thanks for visiting! Let's build something amazing together. 🚀</p>
+</div>
 
 ---
