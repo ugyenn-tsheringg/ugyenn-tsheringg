@@ -18,15 +18,14 @@
 
 ---
 
-## 👋 Hello World! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+## Hello World! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+Hello World! I'm **Ugyen Tshering**, a final-year student at AlBukhary International University, Malaysia, hailing from Bhutan. As a Data Scientist, AI Engineer, and Web Developer, I’m driven to transform data into insights, build intelligent systems, and create seamless web experiences. My mission is to harness technology to solve real-world problems with creativity and precision.
 
-Hello World! I'm Ugyen Tshering, a passionate **Data Scientist**, **Data Analyst**, **Web Developer**, and **AI Engineer** from [Your Location, e.g., Bhutan]. I love transforming data into insights, building intelligent systems, and crafting seamless web experiences. My mission is to leverage technology to solve real-world problems with creativity and precision.
-
-- 🔭 Currently working on [mention a project, e.g., "building a neural network for image classification"]
-- 🌱 Learning [e.g., "advanced NLP techniques and cloud computing"]
-- 💬 Ask me about [e.g., "Python, TensorFlow, or web development"]
-- 📫 Reach me at [your email or preferred contact, e.g., ugyen.tshering@example.com]
-- ⚡ Fun fact: [e.g., "I’m an avid hiker and love exploring nature trails!"]
+- 🔭 **Currently working on**: An **Image Captioning System** for visually impaired individuals, leveraging pretrained ResNet CNN, LSTM with attention mechanisms, Visual Question Answering, and Text-to-Speech integration.
+- 🌱 **Learning**: Advanced deep learning architectures, AI agent development, and solving LeetCode problems in Python.
+- 💬 **Ask me about**: Deep learning, Python, TensorFlow, or Streamlit web apps.
+- 📫 **Reach me at**: [ugyen.tshering4641@gmail.com](mailto:ugyen.tshering4641@gmail.com)
+- ⚡ **Fun fact**: I’m a skilled video editor, crafting stories through visuals in my spare time!
 ---
 
 <div align="center">
