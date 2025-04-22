@@ -98,8 +98,8 @@ I'm **Ugyen Tshering**, a final-year student at AlBukhary International Universi
 ---
 ### 🏆 Featured Projects
 
-- **[Project Name 1](https://github.com/ugyenn-tsheringg/project1)**: [Brief description, e.g., "A machine learning model for predicting customer churn using Python and TensorFlow."]
-- **[Project Name 2](https://github.com/ugyenn-tsheringg/project2)**: [Brief description, e.g., "A full-stack web app for task management built with JavaScript and Firebase."]
+- **[Project Name 1](https://github.com/ugyenn-tsheringg/IMAGE-CAPTIONING-FOR-VISUALLY-IMPAIRED-INDIVIDUALS-CNN-LSTM-VQA-TTS-)**: [Developing a web-based image captioning system that evaluates feature extractors, integrates attention mechanisms, and combines VQA and TTS to create a comprehensive and accessible assistive tool especially for visually impaired individuals.]
+- **[Project Name 2]([https://github.com/ugyenn-tsheringg/project2](https://github.com/ugyenn-tsheringg/ChatPDF-RAG))**: [A Retrieval-Augmented Generation (RAG) application built with LangChain and Streamlit. This project enables users to upload PDF documents, train a GPT model on the content, and interact with it through a seamless chat interface.]
 - **[Project Name 3](https://github.com/ugyenn-tsheringg/project3)**: [Brief description, e.g., "A data visualization dashboard using Pandas and Matplotlib."]
 
 _Explore more on [my repositories](https://github.com/ugyenn-tsheringg?tab=repositories)!_
