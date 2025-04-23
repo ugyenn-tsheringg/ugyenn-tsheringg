@@ -85,7 +85,7 @@ I'm **Ugyen Tshering**, a final-year student at AlBukhary International Universi
 ---
 </div>
 
-## 📊 GitHub Stats
+<!----- ## 📊 GitHub Stats ------>
 
 <div align="center">
   
