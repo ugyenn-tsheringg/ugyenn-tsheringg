@@ -89,8 +89,8 @@ I'm **Ugyen Tshering**, a final-year student at AlBukhary International Universi
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=ugyenn-tsheringg&theme=github-light&hide_border=true)](https://github.com/ugyenn-tsheringg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugyenn-tsheringg&layout=compact&theme=default&hide_border=true)](https://github.com/ugyenn-tsheringg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ugyenn-tsheringg&theme=github-default&hide_border=false)](https://github.com/ugyenn-tsheringg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugyenn-tsheringg&layout=compact&theme=default&hide_border=false)](https://github.com/ugyenn-tsheringg)
 
 </div>
 
