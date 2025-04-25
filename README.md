@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img src="https://github.com/ugyenn-tsheringg/ugyenn-tsheringg/blob/main/github-header-image.png" height="170" alt="Welcome Banner" /> -->
-  <img src="recent_semester_result.png" height="170" alt="Welcome Banner" />
+  <img src="recent_semester_result.png" height="170" width="500" alt="Welcome Banner" />
 </div>
 
 <div align="center">
