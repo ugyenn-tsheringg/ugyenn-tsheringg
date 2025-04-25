@@ -1,4 +1,6 @@
 <div align="center">
+  
+  ## Latest Semester Result
 <!--   <img src="https://github.com/ugyenn-tsheringg/ugyenn-tsheringg/blob/main/github-header-image.png" height="170" alt="Welcome Banner" /> -->
   <img src="recent_semester_result.png" height="250" width="900" alt="Welcome Banner" />
 </div>
