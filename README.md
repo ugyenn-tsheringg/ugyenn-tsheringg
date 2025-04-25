@@ -1,8 +1,5 @@
 <div align="center">
-  
-  ## Latest Semester Result
-<!--   <img src="https://github.com/ugyenn-tsheringg/ugyenn-tsheringg/blob/main/github-header-image.png" height="170" alt="Welcome Banner" /> -->
-  <img src="recent_semester_result.png" height="230" width="900" alt="Welcome Banner" />
+  <img src="https://github.com/ugyenn-tsheringg/ugyenn-tsheringg/blob/main/github-header-image.png" height="170" alt="Welcome Banner" />
 </div>
 
 <div align="center">
@@ -95,6 +92,7 @@ I'm **Ugyen Tshering**, a final-year student at AlBukhary International Universi
 [![GitHub Streak](https://streak-stats.demolab.com?user=ugyenn-tsheringg&theme=github-default&hide_border=true)](https://github.com/ugyenn-tsheringg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugyenn-tsheringg&layout=compact&theme=default&hide_border=true)](https://github.com/ugyenn-tsheringg)
 
+  <img src="recent_semester_result.png" height="230" width="900" alt="Latest Sem Result" />
 </div>
 
 ---
@@ -114,4 +112,3 @@ _Explore more on [my repositories](https://github.com/ugyenn-tsheringg?tab=repos
   <img src="https://komarev.com/ghpvc/?username=ugyenn-tsheringg&style=flat-square&color=blue" alt="Profile Views"/>
   <p>Thanks for visiting! Let's build something amazing together. 🚀</p>
 </div>
----
