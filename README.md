@@ -25,7 +25,7 @@ I'm **Ugyen Tshering**, a final-year student at Albukhary International Universi
 
 - 🔭 **Currently working on**: An **Image Captioning System** for visually impaired individuals, leveraging pretrained ResNet CNN, LSTM with attention mechanisms, Visual Question Answering, and Text-to-Speech integration.
 - 🌱 **Learning**: Advanced deep learning architectures, AI agent development, and solving LeetCode problems in Python.
-- 💬 **Ask me about**: Deep learning, Python, TensorFlow, or Streamlit web apps.
+- 💬 **Ask me about**: Deep learning, Python, TensorFlow, or Streamlit web apps, Power Bi, Looker Studio.
 - 📫 **Reach me at**: ugyen.tshering4641@gmail.com | ugyen.tshering@student.aiu.edu.my
 - ⚡ **Fun fact**: I am highly skilled at leveraging existing LLMs to their full potential, ensuring I get the best possible results
 
