@@ -99,8 +99,11 @@ I'm **Ugyen Tshering**, a final-year student at Albukhary International Universi
 ### 🏆 Featured Projects
 
 - **[Image Captioning using CNN-LSTM + VQA + TTS](https://github.com/ugyenn-tsheringg/IMAGE-CAPTIONING-FOR-VISUALLY-IMPAIRED-INDIVIDUALS-CNN-LSTM-VQA-TTS-)**: [Developing a web-based image captioning system that evaluates feature extractors, integrates attention mechanisms, and combines VQA and TTS to create a comprehensive and accessible assistive tool especially for visually impaired individuals.]
-- **[Chat with your PDF using RAG](https://github.com/ugyenn-tsheringg/ChatPDF-RAG)**: [A Retrieval-Augmented Generation (RAG) application built with LangChain and Streamlit. This project enables users to upload PDF documents, train a GPT model on the content, and interact with it through a seamless chat interface.]
-- **[Project Name 3](https://github.com/ugyenn-tsheringg/project3)**: [Brief description, e.g., "A data visualization dashboard using Pandas and Matplotlib."]
+- **[Precision Spam Detection Using Multinomial Naive Bayes](https://github.com/ugyenn-tsheringg/Precision-Spam-Detection-Using-Multinomial-Naive-Bayes)**: [This project implements a machine learning-based spam detection system to classify SMS messages as either spam or ham (non-spam).]
+- **[YOLOv11 Training for PPE Detection on Construction Sites](https://github.com/ugyenn-tsheringg/Training-YOLOv11n-to-detect-PPE)**: [This project focuses on training a YOLOv11 (nano) model to detect Personal Protective Equipment (PPE) in construction site images.]
+- **[Predicting Loan Defaults with Deep Learning](https://github.com/ugyenn-tsheringg/Predicting-Loan-Defaults-with-Deep-Learning)**: [A deep learning model to predict loan default probabilities for the African Credit Scoring Challenge.]
+- **[Predicting Loan Defaults with Deep Learning](https://github.com/ugyenn-tsheringg/Predicting-Loan-Defaults-with-Deep-Learning)**: [A deep learning model to predict loan default probabilities for the African Credit Scoring Challenge.]
+- **[AtliQ Hospitality Analysis - Power BI](https://github.com/ugyenn-tsheringg/Insights-into-Hospitality-Revenue-Power-Bi)**: [As part of the September month Codebaiscs resume challenge, I have built a dashboard in Power BI to analyze three months sales data of different AtliQ hotels across four different cities.]
 
 _Explore more on [my repositories](https://github.com/ugyenn-tsheringg?tab=repositories)!_
 
