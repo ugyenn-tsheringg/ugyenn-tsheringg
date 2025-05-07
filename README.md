@@ -109,8 +109,6 @@ _Explore more on [my repositories](https://github.com/ugyenn-tsheringg?tab=repos
 
 ---
 
-### 📬 Connect with Me
----
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ugyenn-tsheringg&style=flat-square&color=blue" alt="Profile Views"/>
   <p>Thanks for visiting! Let's build something amazing together. 🚀</p>
